@@ -1,1 +1,1 @@
-This is the Mozilla's webdriver for Firefox.  Additional information at https://developer.mozilla.org/en-US/docs/Mozilla/QA/Marionette/WebDriver
+Test task for getting a job. Selenium usage.
